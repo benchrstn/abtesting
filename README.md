@@ -1,7 +1,7 @@
 # A/B Test Analysis for Foodtech Company
 
 ## Project Overview
-In this project, a company conducting food delivery service recently run an A/B test to improve user experience and and conversion rates. The goal is to determine if displaying larger food images on restaurant menu cards leads to higher order by helping users better understand how meals look.
+This project is a hackathon task by Compety. In this project, a company conducting food delivery service recently run an A/B test to improve user experience and and conversion rates. The goal is to determine if displaying larger food images on restaurant menu cards leads to higher order by helping users better understand how meals look.
 
 ## Dataset Overview
 The dataset includes:
